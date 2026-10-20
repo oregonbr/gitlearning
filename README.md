@@ -1,1 +1,4 @@
 # gitlearning
+
+This is our class demo.
+Author: Levi Interian-uc
